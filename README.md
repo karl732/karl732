@@ -1,15 +1,9 @@
-<div align="center">
-  <img height="200" src="https://github.com/kyechan99/capsule-render/blob/output/svg?type=waving&color=gradient&text=Hello%20World!&height=100&section=header"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Bienvenue&fontSize=40"/>
 
-# 👋 Salut, je suis Karl !
+# 👋 Salut, je suis Karl  
+### <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Data+Engineer;Building+Data+Pipelines;Always+Learning+🚀&center=true&width=500&height=50">
 
 ## 📊 Mes Statistiques GitHub
-
-
-![Stats](https://github-readme-stats.vercel.app/api?username=karl732)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kar732l&layout=compact)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=karl732&theme=radical)
 
